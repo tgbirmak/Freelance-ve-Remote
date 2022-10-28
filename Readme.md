@@ -83,5 +83,19 @@ Hazır Tema Siteleri
 - WrapBootsrap
 - BootstrapWape
 
+Muhasebe
+
+https://mukellef.co/
+
+- Serbest meslek makbuzu , vergi dairesinden kağıt alıp, matbaadan bastıracaksınız.
+- Faturayı kesen şirketler
+
+Şirket açmadan hukuki hak
+
+- Sözleşme , ıslak imza sizi korur.
+
+Hangi aşamada şirket açmalıyız
+
+
 *Konu dışı
 https://cdn.f-img.net/ image upload link paylaşımı.
