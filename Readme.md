@@ -41,22 +41,22 @@
 
 # Zaman Yönetimi
 
-### Çalışma saatlerinizi planlayın.
-### Gün başında günlük işlerinizi planlayın / yazın.
-### Nohut taktiği, yapılan işlerin motivasyon sağlaması
-### Her 30dkda 5 dklık molalar verin.
-### Her 2 saatte bir 15dklık molalar vermeye özen gösterin.
-### Gün içerisinde sosyal medyadan ve telefondan uzak durun. Eğer duramıyorsanız, kendinizi ödeüllendirin.
-### Ailenizle konuşun.
+ Çalışma saatlerinizi planlayın.
+ Gün başında günlük işlerinizi planlayın / yazın.
+ Nohut taktiği, yapılan işlerin motivasyon sağlaması
+ Her 30dkda 5 dklık molalar verin.
+ Her 2 saatte bir 15dklık molalar vermeye özen gösterin.
+ Gün içerisinde sosyal medyadan ve telefondan uzak durun. Eğer duramıyorsanız, kendinizi ödeüllendirin.
+ Ailenizle konuşun.
     - Sizi gün içerisinde yok saysınlar.
-### İş saatleri dışında kesinlikle işe bakmayın.
-### Hayatınızı planlayın.
+ İş saatleri dışında kesinlikle işe bakmayın.
+ Hayatınızı planlayın.
    *Haftalık /aylık /üç aylık
 
 ## Zaman Yönetimi Yapmak Neleri Ortaya Çıkarır?
 
-### Dopamin salgılarsınız. (Sporu ekleyin)
-### Yapmamak ; Depresiflik.
+ *Dopamin* salgılarsınız. (Sporu ekleyin)
+ Yapmamak ; *Depresiflik*
 
 *Konu dışı
 https://cdn.f-img.net/ image upload link paylaşımı.
