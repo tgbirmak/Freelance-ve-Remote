@@ -95,7 +95,10 @@ https://mukellef.co/
 - Sözleşme , ıslak imza sizi korur.
 
 Hangi aşamada şirket açmalıyız
-
+Şirket adresi
+- Kendi eviniz
+- yeni bir yer tutabilirsiniz
+- sanal ofis çözümlerine bakabilirsiniz
 
 *Konu dışı
 https://cdn.f-img.net/ image upload link paylaşımı.
