@@ -1,17 +1,17 @@
 # Freelancer ve Remote Çalışma, İş Süreçleri
 
-## Gereksinim Dökümanları
-## Teklif Formu
-## Bütçe Hesaplanması
-## Ödemeler ve Ara ödemeler
-## Sözleşmede Dikkat Edilmesi Gerekenler
-## Danışmanlık ve Bakım Anlaşması
-## Profesyonel İletişim Teknikleri
-## Proje Yönetimi
-## Zaman Yönetimi
-## Portfolyo
-## Ağızdan Ağıza Pazarlama
-## Muhasebe
+### Gereksinim Dökümanları
+### Teklif Formu
+### Bütçe Hesaplanması
+### Ödemeler ve Ara ödemeler
+### Sözleşmede Dikkat Edilmesi Gerekenler
+### Danışmanlık ve Bakım Anlaşması
+### Profesyonel İletişim Teknikleri
+### Proje Yönetimi
+### Zaman Yönetimi
+### Portfolyo
+### Ağızdan Ağıza Pazarlama
+### Muhasebe
 
 
 # Proje Yönetimi
