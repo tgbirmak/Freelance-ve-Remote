@@ -58,5 +58,30 @@
 ### Dopamin salgılarsınız. (Sporu ekleyin)
 ### Yapmamak ; Depresiflik.
 
+Pitch Deck Sunum Örnekleri
+
+https://slidebean.com/blog/startups-pitch-deck-examples
+
+
+https://airtable.com/shrlU81ETkHGjj1QY/tbliSPfCMJLHiOcBZ/viwURlkEVU0J61kqz?blocks=hide
+CSS Frameworkleri
+
+- Bootstrap
+- Tailwind
+- Bulma
+- UIKit
+- Materialize
+- Bootstrap Vue
+
+Ikon Paketleri
+
+- Iconfinder
+
+Hazır Tema Siteleri
+
+-TemplateMonster
+- WrapBootsrap
+- BootstrapWape
+
 *Konu dışı
 https://cdn.f-img.net/ image upload link paylaşımı.
