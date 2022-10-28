@@ -37,7 +37,7 @@
 - JIRA
 - Azure End to end 
 
- Gereksinim Dökümü hazırlanıyor. Projeye geçme tasarım halini ele alabiliyorsunuz. İstekler ortaya çıkıyor. İstekler Frontend'e dökülüyor. Test e gidiyor. Done 'a çekiliyor. Production'a aktarılıyor. 
+ Gereksinim Dökümü hazırlanır. Projeye geçme tasarım halini ele alınır. İstekler ortaya çıkar. İstekler Frontend'e dökülür. Test e gider. Done 'a çekilir. Production'a aktarılır. 
 
 # Zaman Yönetimi
 
